@@ -1,2 +1,11 @@
-# Waste-Management-System-MySQL
-A 🌍 waste management system database designed to track ♻️ waste collection, 🗑️ storage, 📦 processing, and ⚖️ regulatory monitoring. It includes tables for 📋 users, 🗑️ waste bins, 📜 collection records, 🏛️ regulatory agencies, 🏞️ landfills, and 🔄 processing facilities, with relationships ensuring data integrity.
+# 🌟 Waste Management System Using MySQL
+
+
+## 💡 About
+A 🌍 waste management system database designed to track ♻️ waste collection, 🗑️ storage, 📦 processing, and ⚖️ regulatory monitoring.
+
+## 🔍 Features
+- 🌐 User management for system access
+- 📋 Waste collection, storage, and processing tracking
+- ✅ Regulatory compliance and monitoring
+- 🔗 Integration with external systems for data exchange
